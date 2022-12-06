@@ -23,6 +23,12 @@ The concept of project is to make a Desktop GUI application controlling an Ardui
 Desktop application is Java FXML apllication and GUI created by scene builder\
 project aim is to control a DC motor\
 we choose RC 4 wheel car as an application of DC motor\
+arduino is connected to pc via bluetooth
+User has buttons to switch motors on/of and change motor direction CW/CCW\
+There is a Light/Dark mode feature which is trendy in most of application\
+User has a Speed Control Slider to change PWM of motors\
+
+GUI has 2 Gauges display RPM of motor and linear speed of rc car in m/min
 
 # Hardware Requirenments
 
@@ -56,6 +62,9 @@ Speed Control "PWM Control" Slider\
 rpm Display Gauge\
 m/min Display Gauge
 ![Screenshot (39)](https://user-images.githubusercontent.com/117446840/206028837-b98c7626-b24b-462f-a734-9bc1cda495a1.png)
+
+# Light mode feature
+![Screenshot (40)](https://user-images.githubusercontent.com/117446840/206031033-8829d2d3-ed73-4a5a-9638-8f0316a83f16.png)
 
 
 # Video
