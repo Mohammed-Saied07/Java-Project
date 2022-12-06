@@ -18,8 +18,12 @@ Mayven Medhat\
 Taqwa Hamed\
 Mohammed Saied
 
-# Brif
-The concept of project is to make a Desktop application 
+# Brief
+The concept of project is to make a Desktop GUI application controlling an Arduino Uno board\
+Desktop application is Java FXML apllication and GUI created by scene builder\
+project aim is to control a DC motor\
+we choose RC 4 wheel car as an application of DC motor\
+
 # Hardware Requirenments
 
 1x Arduino Uno\
